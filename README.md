@@ -1,6 +1,5 @@
-
-
-# Hi, my name is Sacha.👋
+<h1 align="center">Hi 👋, I'm SADDOUGUI Sacha</h1>
+<h3 align="center">💻 I am a Front-End | Back-End developer.</h3>
 
 💻 I am a Front-End | Back-End developer.
 
@@ -13,10 +12,6 @@
 🚀 I am interested in the field of aeronautics and space.
 ✈️ I traveled to discover new things.
 🌐 I stay informed about new computer technologies.
-
-
-<h1 align="center">Hi 👋, I'm SADDOUGUI Sacha</h1>
-<h3 align="center">💻 I am a Front-End | Back-End developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
